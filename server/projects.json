@@ -1,17 +1,4 @@
-const hamburger = document.querySelector("#hamburger");
-const navUL = document.querySelector("#nav-ul");
-
-const header = document.querySelector("header");
-
-let first_click = true;
-
-hamburger.addEventListener("click", () => {
-    navUL.classList.toggle("show");    
-});
-
-
-
-const projs = {
+{
   "projects": [
     {
       "title": "Tapping Game iOS",
@@ -19,7 +6,7 @@ const projs = {
       "language": {
           "name": "Swift",
           "class": "orange"
-        },
+      },
       "url": "https://github.com/Keffin/Tapping-Game-iOS"
     },
     {
@@ -28,7 +15,7 @@ const projs = {
       "language": {
           "name": "Python",
           "class": "blue" 
-        },
+      },
       "url": "https://github.com/Keffin/Discord-bot-and-spotify"
     },
     {
@@ -37,23 +24,8 @@ const projs = {
       "language": {
           "name": "Java",
           "class": "brown"
-      },
+    },
     "url": "https://github.com/Keffin/Simple-Tictactoe"
     }
   ]
-};
-
-
-
-function proj_view(proj){
-  let ul = document.createElement("ul"); 
-  for (let i = 0; i < proj.projects.length; i++){
-    let li = document.createElement("li"); 
-    li.appendChild(document.createTextNode(proj.projects[i].title); 
-    ul.appendChild(li); 
-  }
-  return ul; 
 }
-
-document.querySelector("#projects").appendChild(proj_view(projs));
-
