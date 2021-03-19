@@ -5,7 +5,7 @@
 body {
     /* Byter man plats på mono och surfer ändras fonten, men tyckte mono var snyggare */
     font-family: 'Roboto Mono', 'Original Surfer', Arial, Helvetica, sans-serif;
-    background-color: #FBFBFB; 
+    background-color: #000000; 
     font-size: 110%;
 }
 
@@ -104,12 +104,12 @@ header nav ul li {
 
 a {
     text-decoration: none;
-    color: inherit;
+    color: #FFFFFF;
 }
 
-a:visited{
+/*a:visited{
     color: inherit;
-}
+}*/
 
 a:hover {
     border-bottom: 3px solid;
@@ -135,7 +135,7 @@ img {
     border-radius: 100%;
     
     width: 25%;
-    box-shadow: 10px 10px 10px 1px #ccc;
+    /*box-shadow: 10px 10px 10px 1px #ccc;*/
     margin: 0 auto;
     margin-bottom: 2rem;
 }
@@ -144,12 +144,13 @@ main h2 {
     grid-column: 1/4;
     margin: 0 auto;
     margin-bottom: 1.5rem;
+    color: #FFFFFF;
 }
 
 main h3 {
     grid-column: 1/4;
     margin: 0 auto;
-    color: #303030;
+    color: #FFFFFF;
     margin-bottom: -0.5rem;
 }
 
@@ -163,11 +164,11 @@ main p {
     color: #303030;
 }
 
-.fab, .fas {
+/*.fab, .fas {
     font-size: 160%;
-}
+}*/
 
-#icons {
+/*#icons {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-column: 1/4;
@@ -181,7 +182,7 @@ main p {
 #icons a:hover {
     border-bottom: none;
     color: #484848;
-}
+}*/
 
 
 
@@ -189,10 +190,18 @@ main p {
 footer {
     grid-column: 1/4;
     margin: 0 auto;
-    position: absolute;
+
     bottom: 0;
+    padding: 1rem; 
+    color: #FFFFFF;
 }
 
+footer a {
+
+    display: flex;
+    align-items: center;
+    
+}
 
 
 @media (max-width: 794px){
