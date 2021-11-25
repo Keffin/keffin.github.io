@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-blog-query-tsx",
+    "path": "/blog",
+    "result": {"data":{"allPost":{"nodes":[{"slug":"/a-brief-introduction-to-input-validation-and-input-sanitization","title":"A brief introduction to input validation and input sanitization\"","date":"25.11.2021","excerpt":"TODO: Write. ","timeToRead":1,"description":"This post will give a brief introduction to input handling that I covered in my master thesis.","tags":null}]}},"pageContext":{"formatString":"DD.MM.YYYY"}},
+    "staticQueryHashes": ["2744905544","3090400250","318001574"]}

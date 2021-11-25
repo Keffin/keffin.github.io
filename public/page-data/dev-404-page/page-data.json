@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---cache-dev-404-page-js",
+    "path": "/dev-404-page/",
+    "result": {"data":{"allSiteFunction":{"nodes":[]},"allSitePage":{"nodes":[{"path":"/blog"},{"path":"/tags"},{"path":"/a-brief-introduction-to-input-validation-and-input-sanitization"},{"path":"/about"},{"path":"/404/"},{"path":"/404.html"},{"path":"/"},{"path":"/a-brief-introduction-to-the-rust-programming-languages-safety-compared-to-c"}]}},"pageContext":{}},
+    "staticQueryHashes": ["2744905544","3090400250"]}
