@@ -1,4 +1,4 @@
-### Type definitions saved at 2021-11-25T19:55:04.111Z ###
+### Type definitions saved at 2021-11-25T20:03:41.128Z ###
 
 type File implements Node @dontInfer {
   sourceInstanceName: String!
@@ -73,8 +73,8 @@ type Directory implements Node @dontInfer {
 type Site implements Node @dontInfer {
   buildTime: Date @dateformat
   siteMetadata: SiteSiteMetadata
-  pathPrefix: String
   polyfill: Boolean
+  pathPrefix: String
   jsxRuntime: String
 }
 
