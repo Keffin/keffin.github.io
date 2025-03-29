@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on A bit of Kev</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on A bit of Kev</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Awesome tmux</title>
+      <link>http://localhost:1313/notes/note_tmux/</link>
+      <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/note_tmux/</guid>
+      <description>My tmux setup.</description>
+    </item>
+    <item>
+      <title>Hexagonal Architecture</title>
+      <link>http://localhost:1313/posts/hexagonal/</link>
+      <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hexagonal/</guid>
+      <description>My take on hexagonal architecture.</description>
+    </item>
+    <item>
+      <title>Starship prompt</title>
+      <link>http://localhost:1313/notes/note_starship/</link>
+      <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/note_starship/</guid>
+      <description>Random notes on starship.</description>
+    </item>
+    <item>
+      <title>Virtual threads for testing</title>
+      <link>http://localhost:1313/posts/v_threads/</link>
+      <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/v_threads/</guid>
+      <description>Mimic pods using virtual threads.</description>
+    </item>
+    <item>
+      <title>cv</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/</guid>
+      <description>&lt;h2 class=&#34;heading&#34; id=&#34;work&#34;&gt;&#xA;  Work&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#work&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;h5 class=&#34;heading&#34; id=&#34;software-engineer---swish-2024---now&#34;&gt;&#xA;  Software Engineer - Swish 2024 - now&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#software-engineer---swish-2024---now&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h5&gt;&#xA;&lt;h5 class=&#34;heading&#34; id=&#34;software-engineer---tink-2022---2024&#34;&gt;&#xA;  Software Engineer - Tink 2022 - 2024&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#software-engineer---tink-2022---2024&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h5&gt;&#xA;&lt;h5 class=&#34;heading&#34; id=&#34;software-engineer---leanon-2021---2021&#34;&gt;&#xA;  Software Engineer - LeanOn 2021 - 2021&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#software-engineer---leanon-2021---2021&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h5&gt;&#xA;&lt;h5 class=&#34;heading&#34; id=&#34;teaching-assistant---uppsala-university-2017---2021&#34;&gt;&#xA;  Teaching assistant - Uppsala University 2017 - 2021&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#teaching-assistant---uppsala-university-2017---2021&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h5&gt;&#xA;&lt;p&gt;Instructed and graded students in subjects such as program design, data structures, algorithms and also introduction to programming.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 class=&#34;heading&#34; id=&#34;education-uppsala-university&#34;&gt;&#xA;  Education. Uppsala University&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#education-uppsala-university&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;h4 class=&#34;heading&#34; id=&#34;masters-degree-computer-science-2019---2021&#34;&gt;&#xA;  Masters degree Computer Science 2019 - 2021&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#masters-degree-computer-science-2019---2021&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h4&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.diva-portal.org/smash/record.jsf?aq2=%5B%5B%5D%5D&amp;amp;c=1&amp;amp;af=%5B%5D&amp;amp;searchType=SIMPLE&amp;amp;sortOrder2=title_sort_asc&amp;amp;query=kevin+alemi&amp;amp;language=sv&amp;amp;pid=diva2%3A1610991&amp;amp;aq=%5B%5B%5D%5D&amp;amp;sf=undergraduate&amp;amp;aqe=%5B%5D&amp;amp;sortOrder=author_sort_asc&amp;amp;onlyFullText=false&amp;amp;noOfRows=50&amp;amp;dswid=-9838&#34;&gt;Masters thesis&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>whoami</title>
+      <link>http://localhost:1313/whoami/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/whoami/</guid>
+      <description>&lt;img src=&#34;../assets/IMG_6578.jpg&#34; width=&#34;300&#34; height=&#34;400&#34; style=&#34;border-radius: 16px; box-shadow: 6px 6px 15px rgba(0, 0, 0, 0.15);&#34;&gt;&#xA;&lt;br/&gt;&#xA;&lt;br/&gt;&#xA;Husband, Software Engineer, Bench Press Enthusiast, OOP Wizard.&#xA;&lt;p&gt;I enjoy building fun things and occasionally writing about what I learn along the way.&lt;/p&gt;&#xA;&lt;p&gt;I got a masters and bachelors degree in Computer Science from Uppsala University.&#xA;Feel free to check my theses out:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.diva-portal.org/smash/record.jsf?aq2=%5B%5B%5D%5D&amp;amp;c=2&amp;amp;af=%5B%5D&amp;amp;searchType=SIMPLE&amp;amp;sortOrder2=title_sort_asc&amp;amp;query=kevin+alemi&amp;amp;language=sv&amp;amp;pid=diva2%3A1484691&amp;amp;aq=%5B%5B%5D%5D&amp;amp;sf=undergraduate&amp;amp;aqe=%5B%5D&amp;amp;sortOrder=author_sort_asc&amp;amp;onlyFullText=false&amp;amp;noOfRows=50&amp;amp;dswid=916&#34;&gt;Improving on C with Rust - An analysis of Rusts preventative abilities&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.diva-portal.org/smash/record.jsf?aq2=%5B%5B%5D%5D&amp;amp;c=1&amp;amp;af=%5B%5D&amp;amp;searchType=SIMPLE&amp;amp;sortOrder2=title_sort_asc&amp;amp;query=kevin+alemi&amp;amp;language=sv&amp;amp;pid=diva2%3A1610991&amp;amp;aq=%5B%5B%5D%5D&amp;amp;sf=undergraduate&amp;amp;aqe=%5B%5D&amp;amp;sortOrder=author_sort_asc&amp;amp;onlyFullText=false&amp;amp;noOfRows=50&amp;amp;dswid=-9838&#34;&gt;Input Validation and Input Sanitization for Web Applications&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;In my spare time, you&amp;rsquo;ll find me lifting weights, spending time with friends and family, or working on side projects.&#xA;I also enjoy reading about programming languages, distributed systems and just in general latest tech news, especially on HackerNews and Lobsters.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

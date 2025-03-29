@@ -1,0 +1,84 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'A bit of Kev'
+theme = 'typo'
+
+[module]
+[[module.imports]]
+path = "github.com/tomfran/typo"
+
+[taxonomies]
+tag = 'tags'
+
+[params]
+# Meta description
+description = "A Tech Blog"
+showFooter = false 
+
+# Appearance settings
+theme = 'dark'
+colorPalette = 'default'
+hideHeader = false
+
+# Intro on main page, content is markdown
+homeIntroTitle = 'Yo 👋'
+homeIntroContent = """
+I'm a software engineer based in Stockholm. currently working at [Swish](https://www.swish.nu/).
+
+This page is my digital notebook. 
+An attempt to share everything from random thoughts to deep dives into technical topics that interest me,
+how-to guides, and notes for my future self (and anyone else who finds them useful).
+
+Mostly going to be programming and software engineering adjacent subjects. 
+I hope you find something here worth reading!
+"""
+
+# Collection to display on home
+homeCollectionTitle = 'Posts'
+homeCollection = 'posts'
+
+# Lists parameters
+paginationSize = 100
+listSummaries = true
+listDateFormat = '2 Jan 2006'
+
+
+# Breadcrumbs
+[params.breadcrumbs]
+enabled = true
+showCurrentPage = true
+home = "Home"
+
+# Social icons
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/kevin-alemi-61bb5814b/"
+
+[[params.social]]
+name = "github"
+url = "https://github.com/Keffin"
+
+# Main menu pages
+[[params.menu]]
+name = "home"
+url = "/"
+
+[[params.menu]]
+name = "posts"
+url = "/posts"
+
+[[params.menu]]
+name="notes"
+url="/notes"
+
+[[params.menu]]
+name = "whoami"
+url = "/whoami"
+
+
+# Syntax highlight on code blocks
+[markup]
+goldmark.renderer.unsafe = true
+[markup.highlight]
+#style = "catppuccin-latte"
+style = "gruvbox"

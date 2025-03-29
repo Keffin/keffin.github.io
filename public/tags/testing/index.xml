@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Testing on A bit of Kev</title>
+    <link>http://localhost:1313/tags/testing/</link>
+    <description>Recent content in Testing on A bit of Kev</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/testing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Virtual threads for testing</title>
+      <link>http://localhost:1313/posts/v_threads/</link>
+      <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/v_threads/</guid>
+      <description>Mimic pods using virtual threads.</description>
+    </item>
+  </channel>
+</rss>
