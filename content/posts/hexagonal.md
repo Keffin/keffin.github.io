@@ -6,7 +6,7 @@ description: "A general intro to hexagonal."
 toc: false
 autonumber: false
 math: true
-tags: ["architecture", "java"]
+tags: ["architecture", "java", "hexagonal"]
 showTags: true
 hideBackToTop: true
 hidePagination: true
