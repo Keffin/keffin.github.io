@@ -16,25 +16,18 @@
       <description>My tmux setup.</description>
     </item>
     <item>
-      <title>Hexagonal Architecture</title>
-      <link>http://localhost:1313/posts/hexagonal/</link>
-      <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/hexagonal/</guid>
-      <description>My take on hexagonal architecture.</description>
-    </item>
-    <item>
-      <title>Starship prompt</title>
-      <link>http://localhost:1313/notes/note_starship/</link>
-      <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/note_starship/</guid>
-      <description>Random notes on starship.</description>
-    </item>
-    <item>
       <title>Virtual threads for testing</title>
       <link>http://localhost:1313/posts/v_threads/</link>
       <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/v_threads/</guid>
       <description>Mimic pods using virtual threads.</description>
+    </item>
+    <item>
+      <title>Hexagonal Architecture</title>
+      <link>http://localhost:1313/posts/hexagonal/</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hexagonal/</guid>
+      <description>My take on hexagonal architecture.</description>
     </item>
     <item>
       <title>cv</title>

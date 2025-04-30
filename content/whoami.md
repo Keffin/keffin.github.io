@@ -23,4 +23,4 @@ I also enjoy reading about programming languages, distributed systems and just i
 
 Otherwise I'm probably rewatching LOTR or Mr. Robot.
 
-Wish to read my resume? [Check here](/cv) or check me out on [LinkedIn](https://www.linkedin.com/in/kevin-alemi-61bb5814b/)
+Wish to read my resume? Check me out on [LinkedIn](https://www.linkedin.com/in/kevin-alemi-61bb5814b/)
