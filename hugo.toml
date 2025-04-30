@@ -10,6 +10,10 @@ path = "github.com/tomfran/typo"
 [taxonomies]
 tag = 'tags'
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [params]
 # Meta description
 description = "A Tech Blog"
